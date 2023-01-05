@@ -547,6 +547,9 @@ footer .footer-icons:hover {
     transform: translateY(-8px);
 }
 
+/* footer .footer-icons #gmail{
+	width: 40px;
+} */
 /* footer .footer-link {
     margin: 0 20px;
     text-decoration: none;
