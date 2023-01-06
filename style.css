@@ -237,6 +237,9 @@ p {
 	animation: text_reveal 0.5s ease forwards;
 	animation-delay: 1s;
 }
+#hero h1 #name{
+	color: #3586ff;
+}
 #hero h1:nth-child(1) {
 	animation-delay: 1s;
 }
